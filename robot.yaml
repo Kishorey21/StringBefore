@@ -1,0 +1,11 @@
+tasks:
+  StringBefore Reusable:
+    robotTaskName: StringBefore Reusable
+condaConfigFile: conda.yaml
+ignoreFiles:
+- .gitignore
+artifactsDir: output
+PATH:
+- .
+PYTHONPATH:
+- .
